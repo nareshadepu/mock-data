@@ -29,14 +29,14 @@
   },
   {
     "itemId": 128,
-    "productName": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+    "productName": "laboriosam mollitia et enim",
     "actualPrice": 5457.0000,
     "discountPrice": 2850.0000,
     "stockAvailable": ""
   },
   {
     "itemId": 160,
-    "productName": "qui ullam ratione quibusdam voluptatem quia omnis",
+    "productName": "qui ullam ratione ",
     "actualPrice": 5347.0000,
     "discountPrice": 220.0000,
     "stockAvailable": ""
@@ -64,7 +64,7 @@
   },
   {
     "itemId": 145,
-    "productName": "illo est ratione doloremque quia maiores aut",
+    "productName": "illo est ratione ",
     "actualPrice": 5347.0000,
     "discountPrice": 3450.0000,
     "stockAvailable": 15
@@ -93,7 +93,7 @@
   {
     "itemId": 1,
     "actualPrice": 14,
-    "productName": "repellendus sunt dolores architecto voluptatum",
+    "productName": "repellendus sunt ",
     "discountPrice": 20.0000,
     "stockAvailable": true
   },
@@ -107,7 +107,7 @@
   {
     "itemId": 1,
     "actualPrice": 16,
-    "productName": "accusamus eos facilis sint et aut voluptatem",
+    "productName": "accusamus eos facilis ",
     "discountPrice": 20.0000,
     "stockAvailable": true
   },
@@ -129,7 +129,7 @@
     "itemId": 1,
     "actualPrice": 19,
     "discountPrice": 20.0000,
-    "productName": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+    "productName": "molestiae ipsa aut ",
     "stockAvailable": true
   },
   {
@@ -143,34 +143,34 @@
     "itemId": 2,
     "actualPrice": 21,
     "discountPrice": 20.0000,
-    "productName": "suscipit repellat esse quibusdam voluptatem incidunt",
+    "productName": "suscipit repellat esse ",
     "stockAvailable": false
   },
   {
     "itemId": 2,
     "actualPrice": 22,
     "discountPrice": 20.0000,
-    "productName": "distinctio vitae autem nihil ut molestias quo",
+    "productName": "distinctio vitae",
     "stockAvailable": true
   },
   {
     "itemId": 2,
     "actualPrice": 23,
     "discountPrice": 20,
-    "productName": "et itaque necessitatibus maxime molestiae qui quas velit",
+    "productName": "et itaque necessitatibus ",
     "stockAvailable": false
   },
   {
     "itemId": 2,
     "actualPrice": 24,
     "discountPrice": 20,
-    "productName": "adipisci non ad dicta qui amet quaerat doloribus ea",
+    "productName": "adipisci non ad dicta ",
     "stockAvailable": false
   },
   {
     "itemId": 2,
     "actualPrice": 25,
-    "productName": "voluptas quo tenetur perspiciatis explicabo natus",
+    "productName": "voluptas quo tenetur ",
     "stockAvailable": true
   },
   {
@@ -189,7 +189,7 @@
     "itemId": 2,
     "actualPrice": 28,
     "discountPrice": 20,
-    "productName": "nesciunt totam sit blanditiis sit",
+    "productName": "nesciunt totam t",
     "stockAvailable": false
   },
   {
@@ -203,7 +203,7 @@
     "itemId": 2,
     "actualPrice": 30,
     "discountPrice": 20,
-    "productName": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
+    "productName": "nemo perspiciatis repellat ut ",
     "stockAvailable": true
   },
   {
